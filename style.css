@@ -1,28 +1,24 @@
-h3{
-    color: blueviolet;
-}
-
-p{
-    color: rgb(186, 223, 37);
-}
-
-button{
-    color: rgb(247, 180, 57);
-    background-color: white;
-}
-
-body{
-    background-color: rgb(213, 14, 210);
-}
 
 *{
-    font: bold;
-}
-
-#name {
+    padding: 0;
+    margin: 0;
     color: white;
 }
 
-.myclass{
-    color: rgb(18, 233, 233);
+#navbar{
+    height: 70px;
+    background-color: black;
+
+}
+button{
+    background-color: #f08804;
+}
+#logo{
+    color: #f08804;
+    font-size: 25px;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+
 }

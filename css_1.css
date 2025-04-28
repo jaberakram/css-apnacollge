@@ -1,0 +1,28 @@
+h3{
+    color: blueviolet;
+}
+
+p{
+    color: rgb(186, 223, 37);
+}
+
+button{
+    color: rgb(247, 180, 57);
+    background-color: white;
+}
+
+body{
+    background-color: rgb(213, 14, 210);
+}
+
+*{
+    font: bold;
+}
+
+#name {
+    color: white;
+}
+
+.myclass{
+    color: rgb(18, 233, 233);
+}
