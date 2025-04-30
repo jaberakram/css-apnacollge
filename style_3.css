@@ -1,0 +1,12 @@
+div{
+
+    height: 100px;
+    width: 100px;
+    background-image:url("kia_n.jpeg");
+    background-size: cover;
+    color: wheat;
+    position: absolute;
+    left: 0px;
+    top: 100px;
+
+}
